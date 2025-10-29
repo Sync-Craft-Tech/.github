@@ -96,8 +96,7 @@ Our open-source projects are licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-[![Follow us](https://img.shields.io/github/followers/Sync-Craft-Tech?style=social)](https://github.com/Sync-Craft-Tech)
-[![Star](https://img.shields.io/github/stars/Sync-Craft-Tech?style=social)](https://github.com/Sync-Craft-Tech)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Sync--Craft--Tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sync-Craft-Tech)
 
 **© 2025 Sync Craft Tech. All rights reserved.**
 
